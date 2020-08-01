@@ -4356,7 +4356,7 @@ draft-convert@^2.1.8:
     invariant "^2.2.1"
 
 "draft-js@file:../../..":
-  version "0.11.4"
+  version "0.11.6"
   dependencies:
     fbjs "^1.0.0"
     immutable "~3.7.4"
@@ -9572,10 +9572,10 @@ react-json-tree@^0.11.2:
     prop-types "^15.5.8"
     react-base16-styling "^0.5.1"
 
-react-panelgroup@^1.0.10:
-  version "1.0.10"
-  resolved "https://registry.yarnpkg.com/react-panelgroup/-/react-panelgroup-1.0.10.tgz#53d2d8279a89dca0dabcf58ad5c4240e21b17486"
-  integrity sha512-0Atbm0sgknwbu+qlVgWpWxbr6zZn66fhNCpuDYYijBhLg9KByF1Me1OoyEGCFig9Yf5sSnCS6nXdZ7tvnypO/A==
+react-panelgroup@^1.0.12:
+  version "1.0.12"
+  resolved "https://registry.yarnpkg.com/react-panelgroup/-/react-panelgroup-1.0.12.tgz#e19c2d9d1fa4fbe504cdac9255eebc1c569c08f4"
+  integrity sha512-DuA+6TnxLK1TmlQqijYCbzvEVZYS3i6SyG9xqk7SW/S4pzzIxQ73lkSHLkMBG55/iOvGQEL/uH3Y96btk6mPDw==
   dependencies:
     prop-types "^15.6.1"
 
