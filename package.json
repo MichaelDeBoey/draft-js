@@ -61,7 +61,7 @@
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-prettier": "^3.1.2",
     "eslint-plugin-react": "^7.17.0",
-    "fbjs-scripts": "^1.2.0",
+    "fbjs-scripts": "^2.0.0",
     "flow-bin": "^0.125.1",
     "gulp": "^4.0.2",
     "gulp-babel": "^8.0.0",
